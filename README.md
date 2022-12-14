@@ -1,6 +1,38 @@
-### Hi there 👋
+### Well hello there, I've been expecting you 👋
+
+![I´ve been expecting you]([https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif](https://tenor.com/bM5Py.gif))
 
 <!--
+
+about me to describe work and interests, 
+
+Mitt navn er Elise Pedersen og jeg bor i Bergen. Jeg studerer frontend-utvikling på heltid, samtidig som jeg jobber 80% som visual merchandiser og assisterende butikksjef. Jeg er ferdig men studiene i desember 2022. Hvis jeg ikke koder egne sider eller tar oppdrag fra bekjente, liker jeg å være sosial, male og å reise.
+
+Jeg brenner for gode brukeropplevelser og elsker å jobbe visuelt. Gjennom min karriere har jeg lært at jeg har behov for kontinuerlig utvikling. Jeg motiveres av å lære nye ting og har en enorm skaperglede.
+
+skills:
+
+HTML
+
+CSS
+
+JavaScript
+
+TypeScript
+
+Bootstrap
+
+React
+
+Adobe XD
+
+Wordpress
+
+Strapi
+
+PHP
+
+GitHub
 **ElisePedersen/ElisePedersen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -13,4 +45,10 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+
+semester project 2 link til repo
+
+javascript frameworks CA
+
+Project exam 2
 -->
