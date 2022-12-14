@@ -1,5 +1,8 @@
 ### Well hello there, I've been expecting you 👋
 
+![](https://github.com/ElisePedersen/ElisePedersen/blob/main/GIF.gif)
+
+
 ![I´ve been expecting you](https://media.giphy.com/media/8VrtCswiLDNnO/giphy.gif)
 
 <!--
