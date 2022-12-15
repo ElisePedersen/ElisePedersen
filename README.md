@@ -4,14 +4,14 @@
 
 :woman_student: At the moment, I am finishing my studies as a Frontend Developer at Noroff School of Technology and Digital Media. 
 
-:woman_technologist: I am currently working on my [portfolio](http://elisepedersen.no/) in addition to learning learning Vue.
+:woman_technologist: I am currently working on my [portfolio](http://elisepedersen.no/) and learning Vue.
 
 ## In my spare time I enjoy
 - being social :two_women_holding_hands: 
 - being creative :woman_artist:
 - travel :airplane:
 
-## Skills and tools
+## Skills
 - HTML
 - CSS
 - SCSS
