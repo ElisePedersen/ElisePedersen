@@ -1,57 +1,35 @@
-### Well hello there, I've been expecting you 👋
+# Hallaien 👋
 
-![](https://github.com/ElisePedersen/ElisePedersen/blob/main/GIF.gif)
+:raising_hand_woman: My name is Elise Pedersen and I am from Bergen, Norway. 
+
+:woman_student: At the moment, I am finishing my studies as a Frontend Developer at Noroff School of Technology and Digital Media. 
+
+:woman_technologist: I am currently working on my [portfolio](http://elisepedersen.no/) in addition to learning learning Vue.
+
+## In my spare time I enjoy
+- being social :two_women_holding_hands: 
+- being creative :woman_artist:
+- travel :airplane:
+
+## Skills and tools
+- HTML
+- CSS
+- SCSS
+- JavaScript
+- React
+- Bootstrap
+
+## Some of my projects
+- [Share-ish](https://dainty-macaron-fd5cf3.netlify.app) | [Code](https://github.com/Noroff-FEU-Assignments/project-exam-2-ElisePedersen)
+- [UrbanHome](https://friendly-speculoos-7f83bb.netlify.app) | [Code](https://github.com/ElisePedersen/urbanhome)
+- [Veggie](https://zen-feynman-2a7cd4.netlify.app/) | [Code](https://github.com/ElisePedersen/Veggie)
 
 
-![I´ve been expecting you](https://media.giphy.com/media/8VrtCswiLDNnO/giphy.gif)
+
+![Nailed it](https://github.com/ElisePedersen/ElisePedersen/blob/main/andy.gif)
 
 <!--
+![I´ve been expecting you](https://github.com/ElisePedersen/ElisePedersen/blob/main/GIF.gif)
 
-about me to describe work and interests, 
 
-Mitt navn er Elise Pedersen og jeg bor i Bergen. Jeg studerer frontend-utvikling på heltid, samtidig som jeg jobber 80% som visual merchandiser og assisterende butikksjef. Jeg er ferdig men studiene i desember 2022. Hvis jeg ikke koder egne sider eller tar oppdrag fra bekjente, liker jeg å være sosial, male og å reise.
-
-Jeg brenner for gode brukeropplevelser og elsker å jobbe visuelt. Gjennom min karriere har jeg lært at jeg har behov for kontinuerlig utvikling. Jeg motiveres av å lære nye ting og har en enorm skaperglede.
-
-skills:
-
-HTML
-
-CSS
-
-JavaScript
-
-TypeScript
-
-Bootstrap
-
-React
-
-Adobe XD
-
-Wordpress
-
-Strapi
-
-PHP
-
-GitHub
-**ElisePedersen/ElisePedersen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-
-semester project 2 link til repo
-
-javascript frameworks CA
-
-Project exam 2
 -->
