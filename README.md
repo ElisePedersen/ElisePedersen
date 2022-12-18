@@ -7,9 +7,9 @@
 :woman_technologist: I am currently working on my [portfolio](http://elisepedersen.no/) and learning Vue.
 
 ## In my spare time I enjoy
-- being social :two_women_holding_hands: 
-- being creative :woman_artist:
-- travel :airplane:
+- Being social :two_women_holding_hands: 
+- Being creative :woman_artist:
+- Travel :airplane:
 
 ## Skills
 - HTML
