@@ -23,7 +23,6 @@
 
 ## Some of my projects
 - [Share-ish](https://dainty-macaron-fd5cf3.netlify.app) | [Code](https://github.com/Noroff-FEU-Assignments/project-exam-2-ElisePedersen)
-- [UrbanHome](https://friendly-speculoos-7f83bb.netlify.app) | [Code](https://github.com/ElisePedersen/urbanhome)
 
 
 ![Nailed it](https://github.com/ElisePedersen/ElisePedersen/blob/main/andy.gif)
